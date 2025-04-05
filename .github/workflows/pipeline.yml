@@ -1,4 +1,4 @@
-name: Esteira para aplicação employee-management-system
+name: Esteira para aplicação employee-management-system - aula Ada
 on:
   push:
     branches:
